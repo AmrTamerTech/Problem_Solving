@@ -21,10 +21,10 @@ Problem_Solving/
 │   └── Hard/
 │       └── MedianOfTwoSortedArrays.cpp
 └── README.md
-
+```
 ## 🛠 Languages
 - **C++**
-```
+
 ---
 
 ## 📌 Platforms
