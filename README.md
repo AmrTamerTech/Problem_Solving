@@ -1,34 +1,30 @@
-# Problem_Solving 🧩
-This repository contains my solutions to **competitive programming problems** from **Codeforces** and **LeetCode**.  
-All solutions are implemented in **C++**. 🚀
+# 🧩 Problem_Solving
+This repository is a personal collection of **competitive programming problem solutions** from **Codeforces** and **LeetCode**.  
+All solutions are implemented in **C++** for practice, learning, and reference. 🚀
 
 ---
 
 ## 📂 Repository Structure
+```bash
 Problem_Solving/
-│```
 ├── Codeforces/
-│ ├── A_ProblemName.cpp
-│ ├── B_AnotherProblem.cpp
-│ └── ...
-│```
+│   ├── A_ProblemName.cpp
+│   ├── B_AnotherProblem.cpp
+│   └── ...
 ├── LeetCode/
-│ ├── Easy/
-│ │ ├── TwoSum.cpp
-│ │ └── PalindromeNumber.cpp
-│ ├── Medium/
-│ │ ├── AddTwoNumbers.cpp
-│ │ └── LongestSubstring.cpp
-│ └── Hard/
-│ └── MedianOfTwoSortedArrays.cpp
-│
+│   ├── Easy/
+│   │   ├── TwoSum.cpp
+│   │   └── PalindromeNumber.cpp
+│   ├── Medium/
+│   │   ├── AddTwoNumbers.cpp
+│   │   └── LongestSubstring.cpp
+│   └── Hard/
+│       └── MedianOfTwoSortedArrays.cpp
 └── README.md
-
----
 
 ## 🛠 Languages
 - **C++**
-
+```
 ---
 
 ## 📌 Platforms
