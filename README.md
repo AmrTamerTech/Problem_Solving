@@ -1,6 +1,9 @@
 # 🧩 Problem_Solving
-This repository is a personal collection of **competitive programming problem solutions** from **Codeforces** and **LeetCode**.  
-All solutions are implemented in **C++** for practice, learning, and reference. 🚀
+
+This repository is a personal collection of **competitive programming problem solutions**
+from **Codeforces** and **LeetCode**.
+
+All solutions are written in **C++** for practice, learning, and consistency. 🚀
 
 ---
 
@@ -8,19 +11,15 @@ All solutions are implemented in **C++** for practice, learning, and reference. 
 ```bash
 Problem_Solving/
 ├── Codeforces/
-│   ├── A_ProblemName.cpp
-│   ├── B_AnotherProblem.cpp
+│   ├── 1A_Theatre_Square.cpp
+│   ├── 4A_Watermelon.cpp
 │   └── ...
 ├── LeetCode/
-│   ├── Easy/
-│   │   ├── TwoSum.cpp
-│   │   └── PalindromeNumber.cpp
-│   ├── Medium/
-│   │   ├── AddTwoNumbers.cpp
-│   │   └── LongestSubstring.cpp
-│   └── Hard/
-│       └── MedianOfTwoSortedArrays.cpp
+│   ├── Two_Sum.cpp
+│   ├── Valid_Parentheses.cpp
+│   └── ...
 └── README.md
+
 ```
 ## 🛠 Languages
 - **C++**
@@ -34,9 +33,8 @@ Problem_Solving/
 ---
 
 ## 🎯 Goals
-- Solve **Codeforces Div. 2 & 3 problems** consistently  
-- Maintain a **steady LeetCode practice routine**  
-- Strengthen knowledge of **data structures and algorithms**  
+- Build strong problem-solving skills through consistent practice
+- and maintain a clean archive of solved problems.
 
 ---
 
