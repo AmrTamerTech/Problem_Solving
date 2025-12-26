@@ -11,12 +11,12 @@ All solutions are written in **C++** for practice, learning, and consistency. �
 ```bash
 Problem_Solving/
 ├── Codeforces/
-│   ├── 1A_Theatre_Square.cpp
+│   ├── 1A_TheatreSquare.cpp
 │   ├── 4A_Watermelon.cpp
 │   └── ...
 ├── LeetCode/
-│   ├── Two_Sum.cpp
-│   ├── Valid_Parentheses.cpp
+│   ├── TwoSum.cpp
+│   ├── ValidParentheses.cpp
 │   └── ...
 └── README.md
 
