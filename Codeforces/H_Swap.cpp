@@ -5,15 +5,15 @@ int main()
 {
 	int N;
 	cin >> N;
-	int arr[5];
+	int arr[N];
 	for (int i = 0; i < N; i++)
 	{
 		cin >> arr[i];
 	}
-	int* min = min_element(arr, arr + N);
-	int* max = max_element(arr, arr + N);
+	int* minAddress = min_element(arr, arr + N);
+	int* maxAddress = max_element(arr, arr + N);
 
-	swap(*min, *max);
+	swap(*minAddress, *maxAddress);
 	for (int i = 0; i < N; i++)
 	{
 		cout << arr[i] << " ";
