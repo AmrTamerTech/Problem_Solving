@@ -3,7 +3,7 @@
 This repository is a personal collection of **competitive programming problem solutions**
 from **Codeforces** and **LeetCode**.
 
-All solutions are written in **C++** for practice, learning, and consistency. 🚀
+Solutions are written in **C++** and **SQL** for practice, learning, and consistency. 🚀
 
 ---
 
@@ -14,16 +14,25 @@ Problem_Solving/
 │   ├── 1A_Theatre_Square.cpp
 │   ├── 4A_Watermelon.cpp
 │   └── ...
+│
 ├── LeetCode/
-│   ├── Two_Sum.cpp
-│   ├── Valid_Parentheses.cpp
-│   └── ...
+│   ├── Algorithms/
+│   │   ├── Two_Sum.cpp
+│   │   ├── Valid_Parentheses.cpp
+│   │   └── ...
+│   │
+│   └── Database/
+│       ├── 175_Combine_Two_Tables.sql
+│       ├── 176_Second_Highest_Salary.sql
+│       ├── 181_Employees_Earning_More_Than_Their_Managers.sql
+│       └── ...
+│
 └── README.md
 
 ```
 ## 🛠 Languages
 - **C++**
-
+- **SQL**
 ---
 
 ## 📌 Platforms
@@ -33,8 +42,10 @@ Problem_Solving/
 ---
 
 ## 🎯 Goals
-- Build strong problem-solving skills through consistent practice
-- and maintain a clean archive of solved problems.
+- Strengthen problem-solving skills
+- Improve algorithmic thinking
+- Practice clean and efficient coding
+- Maintain an organized archive of solved problems
 
 ---
 
